@@ -1,0 +1,1 @@
+This is a guided project created for the Warwick AI Society. As the Head of Projects, I designed this repository to provide a clear, step-by-step walkthrough for building a machine learning pipeline that predicts the winner of the Premier League using historical team performance data.
