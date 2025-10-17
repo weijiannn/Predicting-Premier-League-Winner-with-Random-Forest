@@ -6,7 +6,7 @@ This project applies machine learning to predict the Premier League winner using
 
 Python, Pandas, Scikit-learn, Matplotlib, Seaborn
 
-🚀 Project Highlights
+🚀 Highlights
 
 1) Collected and cleaned Premier League data (2018–2026)
 2) Trained and evaluated a Random Forest model for prediction
